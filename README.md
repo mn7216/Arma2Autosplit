@@ -16,9 +16,15 @@ This autosplitter is still experimental, don't use it unless you're willing to t
 
 # To do:
 
--Automatically detect level
+-Detect level
+
+-Settings
 
 -Subsplits
+
+- Reset conditions
+
+- 
 
 # Installation:
 
