@@ -4,7 +4,7 @@ Autosplitter for Arma 2: OA
 Starts upon player getting control.
 Ends upon the mission complete menu appearing.
 
-Should be fully functional for ILs
+Probably not functional yet due to pointer fraudery
 
 # NOTES
 
