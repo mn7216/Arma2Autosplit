@@ -16,15 +16,15 @@ This autosplitter is still experimental, don't use it unless you're willing to t
 
 # To do:
 
--Detect level
+- Detect level
 
--Settings
+- Settings
 
--Subsplits
+- Subsplits
 
 - Reset conditions
 
-- 
+- Find consistent pointers after PC restart (and possibly for other PCs)
 
 # Installation:
 
