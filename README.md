@@ -12,6 +12,8 @@ Currently, going back to the mission select screen will trigger a split
 
 There is no reset condition implemented yet, so make sure to reset manually and/or have the timer on 0.00 before attempting
 
+This autosplitter is still experimental, don't use it unless you're willing to take a chance of runs not being recorded correctly
+
 # To do:
 
 -Automatically detect level
