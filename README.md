@@ -4,7 +4,7 @@ Autosplitter for Arma 2: OA
 Starts upon player getting control.
 Ends upon the mission complete menu appearing.
 
-Should be fully functional for ILs
+Probably not functional yet due to pointer fraudery
 
 # NOTES
 
@@ -16,9 +16,15 @@ This autosplitter is still experimental, don't use it unless you're willing to t
 
 # To do:
 
--Automatically detect level
+- Detect level
 
--Subsplits
+- Settings
+
+- Subsplits
+
+- Reset conditions
+
+- Find consistent pointers after PC restart (and possibly for other PCs)
 
 # Installation:
 
