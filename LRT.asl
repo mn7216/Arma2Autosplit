@@ -1,7 +1,7 @@
 state("Arma2OA")
 {
-    int hasControl: 0x07570C, 0x128; // Memory address for player control. 1 = yes, 0 = no
-    int missionComplete: 0xAE1318, 0x18; // Memory address for mission complete. 1 = mission complete, remains 1 until new mission.
+    int hasControl: 0xA7AE10; // Memory address for player control. 1 = yes, 0 = no
+    int missionComplete: 0xADC058; // Memory address for mission complete. 1 = mission complete, remains 1 until new mission.
 	int isLoading: 0x4C9F30, 0x48; // Memory address for loading state.  1 = loading, 0 = not loading
     //int currentMission1: 0x3D9C7C, 0x4;
 	//int currentMission2: 0x51A184, 0x20; //Scuffed workaround for now
