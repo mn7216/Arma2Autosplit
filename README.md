@@ -23,8 +23,6 @@ YOU MUST LAUNCH ARMA 2 WITHOUT BATTLEYE FOR THIS TO WORK.
 
 - Reset conditions
 
-- Find consistent pointers after PC restart (and possibly for other PCs)
-
 # Installation:
 
 - Go into Livesplit
